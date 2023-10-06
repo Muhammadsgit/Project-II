@@ -8,18 +8,17 @@ The primary objective of this project is to determine the best regression model 
 
 ## File Directory/table of contents
 
-├── datasets         
+├── datasets /
 │   ├── train.csv          
 │   ├── test.csv 
-│   ├── Final.csv 
-├── Code folder 
-│   ├── Project_2.ipynb          
-│   
-├──  Kaggle submission
-│   ├── Final_testset_predictions.csv          
-│   
-├── Presentation folder  
-│   ├── Ames Housing Dataset.pdf  
+│   └── final.csv 
+├── Code folder/
+│   └── Project_2.ipynb  
+├── Kaggle submission/
+│   └── Final_testset_predictions.csv 
+└── Presentation folder /
+    └── Project 2 DSI.pdf
+
 
 
 ## Data and Data Dictionary:
