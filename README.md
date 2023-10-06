@@ -9,7 +9,7 @@ The primary objective of this project is to determine the best regression model 
 ## File Directory/table of contents
 
     
-![image](https://media.git.generalassemb.ly/user/50604/files/1acac6db-75fd-4412-9231-744f4a240c64)
+![image](https://media.git.generalassemb.ly/user/50604/files/0c978e64-6410-41b9-bd8f-c9a076a60353)
 
 
 
@@ -77,7 +77,7 @@ Based on the regression analysis of the Ames Housing Dataset:
 
 ## Sources:
 
-- Ames Housing Dataset: [Link to dataset source or documentation]
+- Ames Housing Dataset: [Link to dataset](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset)
 - Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck
 
 ## Authors
