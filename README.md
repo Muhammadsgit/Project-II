@@ -8,16 +8,9 @@ The primary objective of this project is to determine the best regression model 
 
 ## File Directory/table of contents
 
-├── datasets /
-│   ├── train.csv          
-│   ├── test.csv 
-│   └── final.csv 
-├── Code folder/
-│   └── Project_2.ipynb  
-├── Kaggle submission/
-│   └── Final_testset_predictions.csv 
-└── Presentation folder /
-    └── Project 2 DSI.pdf
+    
+![image](https://media.git.generalassemb.ly/user/50604/files/1acac6db-75fd-4412-9231-744f4a240c64)
+
 
 
 
